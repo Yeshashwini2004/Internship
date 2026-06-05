@@ -1,0 +1,7 @@
+Familiarized with the concept of Clean Code 
+To put it in practice, instead of 
+d=2
+n='John'
+Use clear annotations to understand variables 
+daysattended = 2
+Name = 'John'
